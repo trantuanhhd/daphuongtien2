@@ -15,7 +15,7 @@
   "head": {
     "files": [
       {
-        "path"       : "D:\\Cơ sở kỹ thuật đo lường\\20181126_085635.mp4",
+        "path"       : "D:\\DPT\\20181126_085635.mp4",
         "error"      : false,
         "colorspace" : "YV12",
         "codec"      : "yuv420p -> YV12 QuickTime / MOV",
@@ -23,7 +23,7 @@
         "open_mode"  : "auto"
       },
       {
-        "path"       : "D:\\Cơ sở kỹ thuật đo lường\\new.mp4",
+        "path"       : "D:\\DPT\\new.mp4",
         "error"      : false,
         "colorspace" : "YV12",
         "codec"      : "yuv420p -> YV12 QuickTime / MOV",
